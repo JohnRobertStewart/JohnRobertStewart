@@ -1,6 +1,14 @@
 HELLO ! 
 
-My name is John, I love to code ! I eventually plan on hosting my Unity projects on here, but they do thier own version control system so idk. 
+My name is John, I love to code !
+
+I mostly do Javascript and Node for backend, but I like using the new hippin cool tools too like React and Tailwind. I've done a little EJS, and some C# mostly for fun. Looking to get hired in the Vancouver B.C. area but I'd be willing to work remote or even relocate for the right position. 
+
+Hit me up on twitter if you like, https://twitter.com/PocoJohnStewart
+
+I like MTG and Dominions 5. 
+
+ I was going to host a few small Unity projects on here, but they do thier own version control system so idk if I'll get around to it. 
 
 #100Devs 
 
